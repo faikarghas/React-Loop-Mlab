@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "loopmlab": {
+    "host": "ds215388.mlab.com",
+    "port": 31549,
+    "url": "mongodb://faikar:faikar@ds215388.mlab.com:15388/karyawan",
+    "database": "karyawan",
+    "password": "faikar",
+    "name": "loopmlab",
+    "user": "faikar",
+    "connector": "mongodb"
+  }
+}
